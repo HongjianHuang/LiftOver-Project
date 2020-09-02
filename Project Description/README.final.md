@@ -40,7 +40,7 @@ The main problem that LifTOvers admin faces today is that there is too much admi
     To create a new admin account, you must create a new user and promote it through the preset admin account.<br><br>
     1)<strong> Logged in with given admin credentials (top of this section)</strong><br>
     The admin view will have a dashboard, lifts, volunteers, donors, food banks, edit volunteer, settings, and logout tabs on the left of the screen. Let us go through each option one by one.<br><br>
-    <img src="https://github.com/csc301-fall-2019/team-project-liftovers/blob/master/deliverables/d3/admin_login.gif" width="300" height="332" />
+    <img src="https://github.com/HongjianHuang/LiftOver-Project/tree/master/Project%20Description/admin_login.gif" width="300" height="332" />
 
     - Dashboard:
         - This dashboard will display statistics about the current year pickups; no user interaction is needed to view 
