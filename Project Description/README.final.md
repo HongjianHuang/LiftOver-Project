@@ -1,6 +1,7 @@
 # LifTOvers
 
 ## Description 
+Due to academic reasons, I cannot show the code of this project, but here is a final deliverable of it, and everything worked during the final presentation. <br><br>
 We are creating a management dashboard to allow LifTOvers admin to manage the "lift" process. The management actions include managing volunteers, lift requests and volunteer SMS service. The application is designed to include role management (admin, user) to allow several levels of management. <br><br>
 
 The main problem that LifTOvers admin faces today is that there is too much administrative work required. This problem creates a slow turnaround time; food donors need to inform LiftOvers 24 hours ahead to request a "lift." Having an easily accessible dashboard of lift requests and volunteers will allow admin to keep the administrative work to a minimum. For example, our application is integrated with the existing SMS-messaging service, and we will automate the lift confirmation process once a volunteer verifies a lift through SMS. 
