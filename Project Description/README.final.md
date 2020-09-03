@@ -1,7 +1,7 @@
 # LifTOvers
 
 ## Description 
-Due to academic reasons, I cannot show the code of this project, but here is a final deliverable of it, and everything worked during the final presentation. <br><br>
+Due to academic reasons, I cannot show the code of this project, but here is a final deliverable document, my contribution to this project is at the end of this document. <br><br>
 We are creating a management dashboard to allow LifTOvers admin to manage the "lift" process. The management actions include managing volunteers, lift requests and volunteer SMS service. The application is designed to include role management (admin, user) to allow several levels of management. <br><br>
 
 The main problem that LifTOvers admin faces today is that there is too much administrative work required. This problem creates a slow turnaround time; food donors need to inform LiftOvers 24 hours ahead to request a "lift." Having an easily accessible dashboard of lift requests and volunteers will allow admin to keep the administrative work to a minimum. For example, our application is integrated with the existing SMS-messaging service, and we will automate the lift confirmation process once a volunteer verifies a lift through SMS. 
@@ -121,3 +121,7 @@ To develop locally, you can reach the front-end at localhost:3000 and the back-e
 
  We will apply the MIT License to our codebase. This license grants permission to any person that has a copy of the software to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. We want to give our partners full flexibility to change the software and modify it to their liking in the future, and license gives them the full freedom to develop the app in any manner they wish. <br><br>
  Reference link: [MIT license](https://opensource.org/licenses/MIT)
+ 
+ ## Contributors
+ 
+ 
