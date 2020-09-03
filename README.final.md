@@ -123,5 +123,5 @@ To develop locally, you can reach the front-end at localhost:3000 and the back-e
  Reference link: [MIT license](https://opensource.org/licenses/MIT)
  
  ## Contributors
- 
+ ![Alt text](https://github.com/HongjianHuang/LiftOver-Project/blob/master/Project%20Description/contributors.png "Contributors")
  
